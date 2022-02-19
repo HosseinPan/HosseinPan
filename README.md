@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hpanahloo
-- 👀 I’m interested in Game Development and prototype games
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on indie games
-- 📫 How to reach me ...
+- 👀 I’m interested in Game Development
+- 🌱 I’m love Unity and C#
+- 💞️ I’m looking to collaborate on making games
+- 📫 https://www.linkedin.com/in/hossein-panahloo-a9123b5a/
 
 <!---
 hpanahloo/hpanahloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
