@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HosseinPan
 - 👀 I’m interested in Game Development
-- 🌱 I’m love Unity and C#
+- 🌱 I love Unity and C#
 - 💞️ I’m looking to collaborate on making games
 - 📫 https://www.linkedin.com/in/hossein-panahloo-a9123b5a/
 
